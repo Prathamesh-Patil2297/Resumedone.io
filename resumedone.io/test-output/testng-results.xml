@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-23T17:18:42 IST" name="RegressionSuite" finished-at="2023-01-23T17:19:20 IST" duration-ms="38267">
+    <groups>
+    </groups>
+    <test started-at="2023-01-23T17:18:42 IST" name="ChromeTest" finished-at="2023-01-23T17:19:20 IST" duration-ms="38267">
+      <class name="com.resumedone.io.testcases.TC_CreateMyCv_001">
+        <test-method is-config="true" signature="setupBrowser(java.lang.String)[pri:0, instance:com.resumedone.io.testcases.TC_CreateMyCv_001@121314f7]" started-at="2023-01-23T17:18:42 IST" name="setupBrowser" finished-at="2023-01-23T17:19:05 IST" duration-ms="22898" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method signature="test1()[pri:0, instance:com.resumedone.io.testcases.TC_CreateMyCv_001@121314f7]" started-at="2023-01-23T17:19:05 IST" name="test1" finished-at="2023-01-23T17:19:20 IST" duration-ms="14859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resumedone.io.testcases.TC_CreateMyCv_001@121314f7]" started-at="2023-01-23T17:19:20 IST" name="tearDown" finished-at="2023-01-23T17:19:20 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resumedone.io.testcases.TC_CreateMyCv_001 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
